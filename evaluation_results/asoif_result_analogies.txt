@@ -1,0 +1,369 @@
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 3,
+                  'counts': '152',
+                  'incorrect': 149,
+                  'perc': 0.019736842105263157},
+ 'firstname-lastname': {'correct': 10,
+                        'counts': '2270',
+                        'incorrect': 2260,
+                        'perc': 0.004405286343612335},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 1, 'counts': '20', 'incorrect': 19, 'perc': 0.05},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 15,
+           'counts': '2618',
+           'incorrect': 2603,
+           'perc': 0.005729564553093965}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_default_w2v              & 0.44 & 1.97 & 5.0 & 0.0 & 0.0 & 0.57 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 4,
+                  'counts': '152',
+                  'incorrect': 148,
+                  'perc': 0.02631578947368421},
+ 'firstname-lastname': {'correct': 449,
+                        'counts': '2270',
+                        'incorrect': 1821,
+                        'perc': 0.19779735682819383},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 1, 'counts': '20', 'incorrect': 19, 'perc': 0.05},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 461,
+           'counts': '2618',
+           'incorrect': 2157,
+           'perc': 0.17608861726508784}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_w2v_1              & 19.78 & 2.63 & 5.0 & 0.0 & 20.0 & 17.61 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 7,
+                  'counts': '152',
+                  'incorrect': 145,
+                  'perc': 0.046052631578947366},
+ 'firstname-lastname': {'correct': 626,
+                        'counts': '2270',
+                        'incorrect': 1644,
+                        'perc': 0.2757709251101322},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 6, 'counts': '30', 'incorrect': 24, 'perc': 0.2},
+ 'husband-wife': {'correct': 3, 'counts': '20', 'incorrect': 17, 'perc': 0.15},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 643,
+           'counts': '2618',
+           'incorrect': 1975,
+           'perc': 0.24560733384262795}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_w2v_2              & 27.58 & 4.61 & 15.0 & 0.0 & 20.0 & 24.56 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 3,
+                  'counts': '152',
+                  'incorrect': 149,
+                  'perc': 0.019736842105263157},
+ 'firstname-lastname': {'correct': 646,
+                        'counts': '2270',
+                        'incorrect': 1624,
+                        'perc': 0.2845814977973568},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 4,
+                  'counts': '30',
+                  'incorrect': 26,
+                  'perc': 0.13333333333333333},
+ 'husband-wife': {'correct': 3, 'counts': '20', 'incorrect': 17, 'perc': 0.15},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 657,
+           'counts': '2618',
+           'incorrect': 1961,
+           'perc': 0.2509549274255157}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_w2v_3              & 28.46 & 1.97 & 15.0 & 0.0 & 13.33 & 25.1 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 5,
+                  'counts': '152',
+                  'incorrect': 147,
+                  'perc': 0.03289473684210526},
+ 'firstname-lastname': {'correct': 9,
+                        'counts': '2270',
+                        'incorrect': 2261,
+                        'perc': 0.003964757709251102},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 0, 'counts': '20', 'incorrect': 20, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 15,
+           'counts': '2618',
+           'incorrect': 2603,
+           'perc': 0.005729564553093965}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_w2v_4              & 0.4 & 3.29 & 0.0 & 0.0 & 0.0 & 0.57 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 0,
+                          'counts': '6',
+                          'incorrect': 6,
+                          'perc': 0.0},
+ 'child-father': {'correct': 3,
+                  'counts': '152',
+                  'incorrect': 149,
+                  'perc': 0.019736842105263157},
+ 'firstname-lastname': {'correct': 8,
+                        'counts': '2270',
+                        'incorrect': 2262,
+                        'perc': 0.003524229074889868},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 0, 'counts': '30', 'incorrect': 30, 'perc': 0.0},
+ 'husband-wife': {'correct': 0, 'counts': '20', 'incorrect': 20, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 11,
+           'counts': '2618',
+           'incorrect': 2607,
+           'perc': 0.004201680672268907}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_default_ft              & 0.35 & 1.97 & 0.0 & 0.0 & 0.0 & 0.42 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 6,
+                  'counts': '152',
+                  'incorrect': 146,
+                  'perc': 0.039473684210526314},
+ 'firstname-lastname': {'correct': 280,
+                        'counts': '2270',
+                        'incorrect': 1990,
+                        'perc': 0.12334801762114538},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 1,
+                  'counts': '30',
+                  'incorrect': 29,
+                  'perc': 0.03333333333333333},
+ 'husband-wife': {'correct': 1, 'counts': '20', 'incorrect': 19, 'perc': 0.05},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 289,
+           'counts': '2618',
+           'incorrect': 2329,
+           'perc': 0.11038961038961038}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_ft_1              & 12.33 & 3.95 & 5.0 & 0.0 & 3.33 & 11.04 \\ 
+
+
+
+
+	Section:firstname-lastname
+	Section:child-father
+	Section:bastard-child-father
+	Section:husband-wife
+	Section:geo-name-location
+	Section:houses-seats
+	Section:name-animal-type
+	Section:Sigil_animal-house
+	Section:total{'Sigil_animal-house': {'correct': 0,
+                        'counts': '42',
+                        'incorrect': 42,
+                        'perc': 0.0},
+ 'bastard-child-father': {'correct': 1,
+                          'counts': '6',
+                          'incorrect': 5,
+                          'perc': 0.16666666666666666},
+ 'child-father': {'correct': 5,
+                  'counts': '152',
+                  'incorrect': 147,
+                  'perc': 0.03289473684210526},
+ 'firstname-lastname': {'correct': 306,
+                        'counts': '2270',
+                        'incorrect': 1964,
+                        'perc': 0.13480176211453745},
+ 'geo-name-location': {'correct': 0,
+                       'counts': '74',
+                       'incorrect': 74,
+                       'perc': 0.0},
+ 'houses-seats': {'correct': 4,
+                  'counts': '30',
+                  'incorrect': 26,
+                  'perc': 0.13333333333333333},
+ 'husband-wife': {'correct': 0, 'counts': '20', 'incorrect': 20, 'perc': 0.0},
+ 'name-animal-type': {'correct': 0,
+                      'counts': '24',
+                      'incorrect': 24,
+                      'perc': 0.0},
+ 'total': {'correct': 316,
+           'counts': '2618',
+           'incorrect': 2302,
+           'perc': 0.12070282658517953}}
+Number of sections:8
+Number of tasks:       &2270 & 152 & 20 & 74 & 30 & 2618 \\ \hline
+ asoif_ft_2              & 13.48 & 3.29 & 0.0 & 0.0 & 13.33 & 12.07 \\ 
+
+
+
