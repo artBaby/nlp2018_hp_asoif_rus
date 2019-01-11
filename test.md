@@ -1,5 +1,5 @@
 
-***Analogies evaluation before lemmatisation***
+***Analogies evaluation before lemmatisation (RUS)***
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -32,7 +32,7 @@
 </td></tr> </table>  
 
 \
-***Analogies evaluation after lemmatisation***
+***Analogies evaluation after lemmatisation (RUS)***
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -61,3 +61,26 @@
 | **asoif_default_ft**                |  2.33   |  2.63   |  5.0    |  0.0    |  3.33    |  **2.31**    | 
 | asoif_ft_1                      |  23.86  |  2.63   |  15.0   |  6.25   |  20.0    |  **21.58**   | 
 | asoif_ft_2                      |  27.33  |  2.63   |  15.0   |  5.0    |  13.33   |  **24.4**    |
+</td></tr> </table>  
+
+\
+Analogies evaluation (***N-GRAM***)
+<table>
+<tr><th>HP</th><th>ASOIF</th></tr>
+<tr><td>
+
+|         |   **SECTIONS**     |         |        |
+|---------------------------------|---------|--------|---------|
+|**Model**|character-creature|character-where_they_work|**total**|
+|hp_w2v_1              | 5.56 | 0.0 | **4.55**|
+|hp_w2v_2              | 0.0 | 0.0 | **0.0**|
+|hp_ft_1              | 0.0 | 0.0 | **4.55**|
+</td><td>
+
+|         |   **SECTIONS**     |         |        |
+|---------------------------------|---------|--------|---------|
+|**Model**|name-nickname|character-where_they_work|**total**|
+asoif_w2v_1              | 2.22 | 0.0 | **2.22**
+asoif_w2v_2              | 2.22 | 0.0 | **2.22**
+asoif_ft_1              | 0.0 | 0.0 | **0.0**
+</td></tr> </table>  
