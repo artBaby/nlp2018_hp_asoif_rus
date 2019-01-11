@@ -28,8 +28,8 @@
 | **asoif_default_ft**                |  0.35   |  1.97  |  0.0    |  0.0   |  0.0     |  **0.42**    | 
 | asoif_ft_1                      |  12.33  |  3.95  |  5.0    |  0.0   |  3.33    |  **11.04**   | 
 | asoif_ft_2                      |  13.48  |  3.29  |  0.0    |  0.0   |  13.33   |  **12.07**   |
-
-</td></tr> </table>  
+</td></tr> </table> 
+------ 
 
 \
 ***Analogies evaluation after lemmatisation (RUS)***
@@ -62,7 +62,7 @@
 | asoif_ft_1                      |  23.86  |  2.63   |  15.0   |  6.25   |  20.0    |  **21.58**   | 
 | asoif_ft_2                      |  27.33  |  2.63   |  15.0   |  5.0    |  13.33   |  **24.4**    |
 </td></tr> </table>  
-
+------
 \
 **Analogies evaluation** after lemmatisation **(ENG)**
 <table>
@@ -94,6 +94,7 @@ asoif_w2v_4              | 1.27 | 6.67 | 6.67 | 11.9 | 30.0 | **2.67**
 asoif_ft_1              | 34.04 | 0.0 | 6.67 | 13.69 | 46.67 | **29.81**
 asoif_ft_2              | 35.09 | 1.11 | 3.33 | 11.9 | 26.67 | **30.44**
 </td></tr> </table>
+------
 
 \
 Analogies evaluation (***N-GRAM***)
@@ -116,3 +117,7 @@ asoif_w2v_1              | 2.22 | 0.0 | **2.22**
 asoif_w2v_2              | 2.22 | 0.0 | **2.22**
 asoif_ft_1              | 0.0 | 0.0 | **0.0**
 </td></tr> </table>  
+
+------
+\
+sdsd
