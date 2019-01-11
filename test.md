@@ -1,5 +1,5 @@
 
-***Analogies evaluation before lemmatisation (RUS)***
+**Analogies evaluation** before lemmatisation **(RUS)**
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -32,7 +32,7 @@
 
 
 \
-***Analogies evaluation after lemmatisation (RUS)***
+**Analogies evaluation** after lemmatisation **(RUS)**
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -120,7 +120,7 @@ asoif_ft_1              | 0.0 | 0.0 | **0.0**
 
 ------
 \
-**Doesn't match evaluation before lemmatisation (RUS)**
+**Doesn't match evaluation** before lemmatisation **(RUS)**
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -152,7 +152,7 @@ asoif_ft_1              | 0.0 | 0.0 | **0.0**
 </td></tr> </table>  
 
 \
-**Doesn't match evaluation after lemmatisation (RUS)**
+**Doesn't match evaluation** after lemmatisation **(RUS)**
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
@@ -216,7 +216,7 @@ asoif_ft_2              | 86.25 | 64.37 | 83.3 | 92.43 | **73.12**
 </td></tr> </table>  
 
 \
-Doesn't match evaluation (***N-GRAM***)
+**Doesn't match** evaluation (***N-GRAM***)
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
