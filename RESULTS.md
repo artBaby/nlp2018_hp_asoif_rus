@@ -352,7 +352,8 @@ wiki.ru.vec              | 25.0 | 25.0 | 25.0 | 30.0 | **25.36**
 </td></tr> </table> 
 
 
-
+\
+## Frequencies comparison
 
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
