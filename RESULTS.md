@@ -55,10 +55,15 @@
 >[**Пир стервятников** (A Feast for Crows)](https://www.litres.ru/dzhordzh-martin/pir-stervyatnikov/ "go to the book")
 >
 >Перевод: Наталья И. Виленская
+
 \
 \
 \
 \
+\
+\
+\
+
 </td></tr> </table> 
 
 **Analogies evaluation** before lemmatisation **(RUS)**
