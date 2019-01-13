@@ -277,11 +277,13 @@ wiki.ru.vec              | 12.5 | 0.0 | 0.0 | 0.0 | **4.55**
 wiki.ru.vec              | 25.0 | 25.0 | 25.0 | 30.0 | **25.36**
 </td></tr> </table> 
 
+
+
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
 
-|                        |         |       |    |        
+|                        |     Average frequencies    |       |    |        
 |---------------------------------|---------|--------|---------|
 **Freq_RUS**|**Freq_RUS_LEM**|**Freq_ENG**|**Freq_NGRAM_RUS**
 249,21|397,71|409,65|392
