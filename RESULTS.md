@@ -278,13 +278,6 @@ wiki.ru.vec              | 25.0 | 25.0 | 25.0 | 30.0 | **25.36**
 </td></tr> </table> 
 
 
-
-<table>
-<tr><th>HP</th><th>ASOIF</th></tr>
-<tr><td>
-
-
-
 <table>
 <tr><th>HP</th><th>ASOIF</th></tr>
 <tr><td>
