@@ -5,45 +5,60 @@
 
 ## Harry Potter
 >[**Гарри Поттер и философский камень** (Harry Potter and the Sorcerer's Stone.)](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-filosofskiy-kamen-121626/ "go to the book")
-Перевод: Юрий  Мачкасов
+>
+>Перевод: Юрий  Мачкасов
 
 >[**Гарри Поттер и Тайная комната** (Harry Potter and the Chamber of Secrets) ](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-taynaya-komnata-121642/
  "go to the book")
-Перевод: Марина Дмитриевна Литвинова
+ >
+>Перевод: Марина Дмитриевна Литвинова
 
 >[**Гарри Поттер и узник Азкабана** (Harry Potter and the Prisoner of Azkaban)](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-uznik-azkabana-121796/
  "go to the book")
-Перевод: Мария Викторовна Спивак
+ >
+>Перевод: Мария Викторовна Спивак
 
 >[**Гарри Поттер и Кубок Огня** (Harry Potter and the Goblet of Fire)](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-kubok-ognya-126251/
  "go to the book")
-Перевод:   Potter's Army
+ >
+>Перевод:   Potter's Army
 
 >[**Гарри Поттер и Орден Феникса** (Harry Potter and the Order of the Phoenix)](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-orden-feniksa-126332/
  "go to the book")
-Перевод: Мария Викторовна Спивак
+ >
+>Перевод: Мария Викторовна Спивак
 
 >[**Гарри Поттер и принц-полукровка** (Harry Potter and the Half-Blood Prince)](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-princ-polukrovka-128099/
  "go to the book")
-Перевод: Мария Викторовна Спивак
+ >
+>Перевод: Мария Викторовна Спивак
 
 >[**Гарри Поттер и дары смерти** (Harry Potter and the Deathly Hallows](https://www.litres.ru/dzhoan-ketlin-rouling/garri-potter-i-dary-smerti/
  "go to the book")
-Перевод:   Potter's Army
+ >
+>Перевод:   Potter's Army
 </td><td>
 
 ## A song of ice and fire
 >[**Игра престолов** (A Game of Thrones)](https://www.litres.ru/dzhordzh-martin/igra-prestolov/#buy_now_noreg "go to the book")
-Перевод: Юрий Ростиславович Соколов
+>
+>Перевод: Юрий Ростиславович Соколов
 
 >[**Битва королей** (A Clash of Kings)](https://www.litres.ru/dzhordzh-martin/bitva-koroley/#buy_now_noreg "go to the book")
-Перевод: Юрий Ростиславович Соколов, Наталья И. Виленская
+>
+>Перевод: Юрий Ростиславович Соколов, Наталья И. Виленская
 
 >[**Буря мечей** (A Storm of Swords)](https://www.litres.ru/dzhordzh-martin/burya-mechey/ "go to the book")
-Перевод: Юрий Ростиславович Соколов, Наталья И. Виленская
+>
+>Перевод: Юрий Ростиславович Соколов, Наталья И. Виленская
 
 >[**Пир стервятников** (A Feast for Crows)](https://www.litres.ru/dzhordzh-martin/pir-stervyatnikov/ "go to the book")
-Перевод: Наталья И. Виленская
+>
+>Перевод: Наталья И. Виленская
+\
+\
+\
+\
 </td></tr> </table> 
 
 **Analogies evaluation** before lemmatisation **(RUS)**
